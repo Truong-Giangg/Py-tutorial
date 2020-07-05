@@ -1,0 +1,5 @@
+Giang: director
+Tuan: accountant
+Dyen: secretaryToby: Human resources
+Toby: Human resources
+Kelly: Customer services
